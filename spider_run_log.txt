@@ -1,0 +1,108 @@
+
+================================================================================
+[2025-05-05 13:18:00] 🚀 Run started
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'aml_pep_nbim_norway_entity_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.nbim.no-/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'aml_pep_nbim_norway_entity_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'aml_pep_nbim_norway_entity_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'aml_pep_state_united_states_person_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.state.gov/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'aml_pep_state_united_states_person_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'aml_pep_state_united_states_person_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'aml_pep_saps_south_africa_person_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.saps.gov.za-/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'aml_pep_saps_south_africa_person_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'aml_pep_saps_south_africa_person_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'aml_pep_ice_united_states_person_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.ice.gov-/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'aml_pep_ice_united_states_person_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'aml_pep_ice_united_states_person_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'aml_pep_legislation_united_kingdom_entity_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.legislation.gov.uk-/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'aml_pep_legislation_united_kingdom_entity_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'aml_pep_legislation_united_kingdom_entity_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] 🔄 Starting spider 'PEP-Scraper-FDIC-Updated_Server_CR' in '/root/projects/automation-scrapping/spider-scripts/PEP-https-www.fdic.gov-/tutorial/tutorial'
+[2025-05-05 13:18:00] ❌ EXCEPTION: Failed to run 'PEP-Scraper-FDIC-Updated_Server_CR' - [Errno 2] No such file or directory: 'scrapy'
+Traceback (most recent call last):
+  File "/root/projects/automation-scrapping/run.py", line 55, in run_spiders
+    process = subprocess.Popen(
+              ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'scrapy'
+
+[2025-05-05 13:18:00] 🔚 Finished spider 'PEP-Scraper-FDIC-Updated_Server_CR'
+--------------------------------------------------------------------------------
+[2025-05-05 13:18:00] 🔙 Returned to base directory.
+
+================================================================================
+[2025-05-05 13:18:00] ✅ All spiders completed.
